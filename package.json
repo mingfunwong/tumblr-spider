@@ -1,0 +1,22 @@
+{
+  "name": "tumblr-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "needle": "^1.5.2",
+    "multi-progress": "^2.0.0",
+    "caw": "^2.0.0",
+    "decompress": "^4.0.0",
+    "filenamify": "^2.0.0",
+    "get-stream": "^3.0.0",
+    "got": "^6.3.0",
+    "mkdirp": "^0.5.1",
+    "pify": "^2.3.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
