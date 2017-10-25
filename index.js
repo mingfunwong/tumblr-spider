@@ -101,7 +101,7 @@ setInterval(() => {
 
 // listen.emit("_get_page", {user: "nuclear-warrior", start: 0});
 var content = fs.readFileSync("./user.txt", 'utf8');
-var users = content.split("\r\n");
+var users = content.split("\n");
 for (let i in users) {
 	var user = users[i];
 	listen.emit("_get_page", {user: user, start: 0});
