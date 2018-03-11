@@ -1,4 +1,4 @@
-# tumblr-spider [![Build Status](https://travis-ci.org/mingfunwong/tumblr-spider.svg?branch=master)](https://travis-ci.org/mingfunwong/tumblr-spider)
+# tumblr-spider
 
 Tumblr 视频下载。
 ![image](https://github.com/mingfunwong/tumblr-spider/raw/master/demo.jpg)
